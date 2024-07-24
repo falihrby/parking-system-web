@@ -112,7 +112,7 @@ const App = () => {
           ) : (
             <div className="flex flex-col md:flex-row h-full">
               <div className="flex flex-col w-full md:w-1/2">
-                {['A01', 'A02', 'A03'].map(id => (
+                {['A03', 'A02', 'A01'].map(id => (
                   <div className="flex-1 p-2" key={id}>
                     <div className="parking-spot available" id={id}>{id}</div>
                   </div>
@@ -120,7 +120,7 @@ const App = () => {
               </div>
               <div className="divider hidden md:block h-100"></div>
               <div className="flex flex-col w-full md:w-1/2">
-                {['B01', 'B02', 'B03'].map(id => (
+                {['B03', 'B02', 'B01'].map(id => (
                   <div className="flex-1 p-2" key={id}>
                     <div className="parking-spot available" id={id}>{id}</div>
                   </div>
