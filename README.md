@@ -25,6 +25,10 @@ Here is the main view provided by this application:
 - **Available Areas:** Displays the number of available parking areas.
 - **Available Area Codes:** Displays the codes for available parking areas.
 
+## Prototype Demonstration
+
+Check out the video demonstration of the prototype: (https://s.id/smart-parking).
+
 ## Contribution
 
 We welcome contributions from the community. If you would like to contribute to this project, please open a new issue or submit a pull request after making changes.
